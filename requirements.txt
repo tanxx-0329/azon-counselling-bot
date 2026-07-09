@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+langchain-core
+chromadb==0.6.3
+python-dotenv
+google-generativeai
+numpy<2.0
