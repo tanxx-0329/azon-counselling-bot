@@ -10,3 +10,7 @@ chromadb==0.6.3
 python-dotenv
 google-generativeai
 numpy<2.0
+psycopg2-binary
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
